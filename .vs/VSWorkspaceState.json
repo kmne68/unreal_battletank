@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BattleTank"
+    "\\BattleTank",
+    "\\BattleTank\\Config",
+    "\\BattleTank\\Content",
+    "\\BattleTank\\Source"
   ],
   "PreviewInSolutionExplorer": false
 }
